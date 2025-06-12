@@ -88,13 +88,12 @@ The project is implemented as a Jupyter notebook that can be run end-to-end. To 
    cd EIACD-Student-Intervention-System-SL
    conda create -f environment.yml -n env
    ```
-2. Run the main file to launch the game:
+2. Install ipykernel to able to use kernels inside Jupyter:
    ```bash
-   conda activate environment
    python -m ipykernel install --user --name <kernel_name> --display-name "<display_name>"
    jupyter-notebook eda.ipynb
    ```
-3. Inside the jupyter notebook, select the kernel with the chosen name.
+3. Inside the Jupyter Notebook, select the kernel with the chosen name.
 
 ## License
 

@@ -95,10 +95,6 @@ The project is implemented as a Jupyter notebook that can be run end-to-end. To 
    ```
 3. Inside the Jupyter Notebook, select the kernel with the chosen name.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgments
 
 - UCI Machine Learning Repository for providing the dataset

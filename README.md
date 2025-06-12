@@ -82,12 +82,12 @@ The analysis identified several strong predictors of academic failure:
 The project is implemented as a Jupyter notebook that can be run end-to-end. To use:
 
 1. Clone repo and create conda environment:
-```bash
-# Installation (using conda)
-git clone https://github.com/PedroNJorge/EIACD-Student-Intervention-System-SL
-cd EIACD-Student-Intervention-System-SL
-conda create -f environment.yml -n env
-```
+   ```bash
+   # Installation (using conda)
+   git clone https://github.com/PedroNJorge/EIACD-Student-Intervention-System-SL
+   cd EIACD-Student-Intervention-System-SL
+   conda create -f environment.yml -n env
+   ```
 2. Run the main file to launch the game:
    ```bash
    conda activate environment

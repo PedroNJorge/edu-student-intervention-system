@@ -1,4 +1,4 @@
-# EIACD-Student-Intervention-System-SL
+# Student Intervention System (Supervised Learning)
 
 ## Project Overview
 
